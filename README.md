@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sim786par/dsa_solutions/tree/master/0006-zigzag-conversion) |
 | [0709-to-lower-case](https://github.com/sim786par/dsa_solutions/tree/master/0709-to-lower-case) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |

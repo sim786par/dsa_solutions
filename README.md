@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0766-toeplitz-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
 ## Database

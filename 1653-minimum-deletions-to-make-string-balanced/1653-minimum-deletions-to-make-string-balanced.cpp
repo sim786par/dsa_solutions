@@ -1,18 +1,17 @@
-// in this we are checking the "ba" pattern before pushing the element in the stack and returning the count of pop operation in "ba" pattern
+// usng dp concept 
 class Solution {
 public:
     int minimumDeletions(string s) {
-        int count=0;
-        stack<char> st;
+        int bcount=0;
+        int ans=0;
         for(int i=0;i<s.size();i++){
-            if(!st.empty() && st.top()=='b' &&s[i]=='a'){
-                st.pop();
-                count++;
+            if(s[i]=='b'){
+                bcount++;
             }
-            else{
-                st.push(s[i]);
+            else{//if s[i]=='a' it will add a in ans+1 or bcount in comparing both for min value
+                ans = min(ans+1,bcount);
             }
         }
-        return count;
+        return ans;
     }
 };

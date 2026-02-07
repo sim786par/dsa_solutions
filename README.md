@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sim786par/dsa_solutions/tree/master/0006-zigzag-conversion) |
 | [0709-to-lower-case](https://github.com/sim786par/dsa_solutions/tree/master/0709-to-lower-case) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sim786par/dsa_solutions/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sim786par/dsa_solutions/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/sim786par/dsa_solutions/tree/master/0709-to-lower-case) |
+| [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/sim786par/dsa_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sim786par/dsa_solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sim786par/dsa_solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sim786par/dsa_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sim786par/dsa_solutions/tree/master/3721-longest-balanced-subarray-ii) |

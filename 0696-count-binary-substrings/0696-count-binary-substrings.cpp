@@ -14,9 +14,7 @@ public:
                 currGroup = 1;
             }
         }
-
         ans += min(prevGroup, currGroup);
-
         return ans;
     }
 };

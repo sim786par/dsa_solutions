@@ -96,10 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/sim786par/dsa_solutions/tree/master/0175-combine-two-tables) |
 ## Dynamic Programming
 |  |
 | ------- |

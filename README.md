@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2643-row-with-maximum-ones](https://github.com/sim786par/dsa_solutions/tree/master/2643-row-with-maximum-ones) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/sim786par/dsa_solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sim786par/dsa_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sim786par/dsa_solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sim786par/dsa_solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sim786par/dsa_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sim786par/dsa_solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Matrix

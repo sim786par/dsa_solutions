@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/sim786par/dsa_solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2643-row-with-maximum-ones](https://github.com/sim786par/dsa_solutions/tree/master/2643-row-with-maximum-ones) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/sim786par/dsa_solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/sim786par/dsa_solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sim786par/dsa_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sim786par/dsa_solutions/tree/master/3714-longest-balanced-substring-ii) |

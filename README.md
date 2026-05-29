@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sim786par/dsa_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sim786par/dsa_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sim786par/dsa_solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sim786par/dsa_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sim786par/dsa_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -224,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

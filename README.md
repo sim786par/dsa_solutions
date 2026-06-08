@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sim786par/dsa_solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sim786par/dsa_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/sim786par/dsa_solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |

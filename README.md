@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sim786par/dsa_solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2643-row-with-maximum-ones](https://github.com/sim786par/dsa_solutions/tree/master/2643-row-with-maximum-ones) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0696-count-binary-substrings](https://github.com/sim786par/dsa_solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Rolling Hash
 |  |
 | ------- |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sim786par/dsa_solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0766-toeplitz-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/sim786par/dsa_solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |

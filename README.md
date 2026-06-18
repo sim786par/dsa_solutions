@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sim786par/dsa_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/sim786par/dsa_solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sim786par/dsa_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sim786par/dsa_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sim786par/dsa_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/sim786par/dsa_solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sim786par/dsa_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sim786par/dsa_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sim786par/dsa_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/sim786par/dsa_solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sim786par/dsa_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sim786par/dsa_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/sim786par/dsa_solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/sim786par/dsa_solutions/tree/master/0401-binary-watch) |
 ## Two Pointers
 |  |

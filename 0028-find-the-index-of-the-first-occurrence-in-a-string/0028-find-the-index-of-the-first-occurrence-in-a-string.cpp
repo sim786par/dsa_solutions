@@ -1,49 +1,45 @@
+// this is soved using kmp algorithm
 class Solution {
 public:
+    vector<int> buildlps(string pattern){
+        int n = pattern.size();
+        int len =0, i=1;
+        vector<int> lps(n,0);
+        while(i<n){
+            if(pattern[i] == pattern[len]){
+                len++;
+                lps[i] = len;
+                i++;
+
+            }
+            else{
+                if(len !=0){
+                    len = lps[len-1];
+                }
+                else{
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+        return lps;
+    }
     int strStr(string haystack, string needle) {
 
         int n = haystack.size();
         int m = needle.size();
-
-        if(m > n) return -1;
-
-        long long base = 31;
-        long long mod = 1e9+7;
-
-        long long patternHash = 0;
-        long long windowHash = 0;
-        long long power = 1;
-
-        for(int i=0;i<m-1;i++)
-            power = (power*base)%mod;
-
-        for(int i=0;i<m;i++){
-            patternHash =(patternHash*base + needle[i])%mod;
-
-            windowHash =(windowHash*base + haystack[i])%mod;
-        }
-
-        for(int i=0;i<=n-m;i++){
-
-            if(patternHash == windowHash){
-
-                bool same = true;
-
-                for(int j=0;j<m;j++){
-                    if(haystack[i+j] != needle[j]){
-                        same = false;
-                        break;
-                    }
-                }
-
-                if(same) return i;
+        vector<int> lps = buildlps(needle);
+        int i=0,j=0;
+        while(i<n){
+            if(haystack[i] == needle[j]){
+                i++, j++;
             }
-
-            if(i < n-m){
-
-                windowHash =(windowHash - haystack[i]*power%mod + mod)%mod;
-
-                windowHash =(windowHash*base + haystack[i+m])%mod;
+            if(j==m){
+                return i-j;
+            }
+            else if(i<n && haystack[i] != needle[j]){
+                if(j!=0) j = lps[j-1];
+                else i++;
             }
         }
 

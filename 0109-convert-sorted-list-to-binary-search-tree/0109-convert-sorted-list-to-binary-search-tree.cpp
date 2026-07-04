@@ -21,23 +21,47 @@
  */
 class Solution {
 public:
+    // TreeNode* sortedListToBST(ListNode* head) {
+    //     if(head == nullptr) return nullptr;
+    //     if(head->next == nullptr){
+    //         return new TreeNode(head->val);
+    //     }
+    //     ListNode* slow = head;
+    //     ListNode* fast = head;
+    //     ListNode* slow_prev = NULL;
+    //     while(fast != NULL && fast->next != NULL){
+    //         slow_prev = slow;
+    //         slow = slow->next;
+    //         fast = fast->next->next;
+    //     }
+    //     TreeNode* root = new TreeNode(slow->val);
+    //     slow_prev->next = nullptr;              //this is for breaking the link subtree between left and middle value
+    //     root->left = sortedListToBST(head);
+    //     root->right = sortedListToBST(slow->next);
+    //     return root;
+    // }
+    //2nd approach recursion
     TreeNode* sortedListToBST(ListNode* head) {
-        if(head == nullptr) return nullptr;
-        if(head->next == nullptr){
-            return new TreeNode(head->val);
-        }
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* slow_prev = NULL;
-        while(fast != NULL && fast->next != NULL){
-            slow_prev = slow;
+        return build(head, NULL);
+    }
+    TreeNode* build(ListNode* first, ListNode* last) {
+        if (first == last)
+            return NULL;
+
+        ListNode* slow = first;
+        ListNode* fast = first;
+
+        while (fast != last && fast->next != last) {
             slow = slow->next;
             fast = fast->next->next;
         }
+
         TreeNode* root = new TreeNode(slow->val);
-        slow_prev->next = nullptr;              //this is for breaking the link subtree between left and middle value
-        root->left = sortedListToBST(head);
-        root->right = sortedListToBST(slow->next);
+
+        root->left = build(first, slow);
+
+        root->right = build(slow->next, last);
+
         return root;
     }
 };

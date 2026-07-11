@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
+| [0997-find-the-town-judge](https://github.com/sim786par/dsa_solutions/tree/master/0997-find-the-town-judge) |
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sim786par/dsa_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/sim786par/dsa_solutions/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sim786par/dsa_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sim786par/dsa_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/sim786par/dsa_solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sim786par/dsa_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sim786par/dsa_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find

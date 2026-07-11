@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sim786par/dsa_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sim786par/dsa_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sim786par/dsa_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sim786par/dsa_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/sim786par/dsa_solutions/tree/master/2643-row-with-maximum-ones) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sim786par/dsa_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sim786par/dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sim786par/dsa_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

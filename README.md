@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/sim786par/dsa_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sim786par/dsa_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sim786par/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/sim786par/dsa_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sim786par/dsa_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sim786par/dsa_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
@@ -340,5 +342,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sim786par/dsa_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sim786par/dsa_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sim786par/dsa_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sim786par/dsa_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sim786par/dsa_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sim786par/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sim786par/dsa_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sim786par/dsa_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sim786par/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sim786par/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sim786par/dsa_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sim786par/dsa_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sim786par/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sim786par/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sim786par/dsa_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sim786par/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |

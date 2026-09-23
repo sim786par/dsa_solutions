@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sim786par/dsa_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sim786par/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sim786par/dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sim786par/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sim786par/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sim786par/dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |

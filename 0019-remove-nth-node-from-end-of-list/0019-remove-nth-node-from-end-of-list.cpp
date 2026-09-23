@@ -11,33 +11,50 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* temp = head;
-        int len =0;
-        ListNode* curr = head;
-        ListNode* prev = head;
-        while(temp != NULL){
-            temp = temp->next;
-            len++;
+        // ListNode* temp = head;
+        // int len = 0;
+        // ListNode* curr = head;
+        // ListNode* prev = head;
+        // while (temp != NULL) {
+        //     temp = temp->next;
+        //     len++;
+        // }
+        // if (len == 1) {
+        //     delete head;
+        //     return NULL;
+        // }
+        // if (len == n) {
+        //     curr = head;
+        //     head = head->next;
+        //     delete curr;
+        //     return head;
+        // }
+        // int currlen = 0, diff = 0;
+        // while (diff != n) {
+        //     prev = curr;
+        //     curr = curr->next;
+        //     currlen++;
+        //     diff = len - currlen;
+        // }
+        // prev->next = curr->next;
+        // delete curr;
+        // return head;
+
+        // fast and slow method
+        ListNode* a = new ListNode(0);
+        a->next = head;
+        ListNode* fast = a;
+        ListNode* slow = a;
+        for (int i = 0; i <= n; i++) {
+            fast = fast->next;
         }
-        if(len == 1){
-            delete head;
-            return NULL;
+        while (fast != nullptr) {
+            fast = fast->next;
+            slow = slow->next;
         }
-        if(len == n){
-            curr = head;
-            head = head->next;
-            delete curr;
-            return head;
-        }
-        int currlen =0, diff = 0;
-        while(diff != n){
-            prev = curr;
-            curr = curr->next;
-            currlen++;
-            diff = len-currlen;
-        }
-        prev->next = curr->next;
-        delete curr;
-        return head;
+        ListNode* temp = slow->next;
+        slow->next = slow->next->next;
+        delete temp;
+        return a->next;
     }
 };

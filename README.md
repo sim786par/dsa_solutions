@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/sim786par/dsa_solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sim786par/dsa_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sim786par/dsa_solutions/tree/master/0486-predict-the-winner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

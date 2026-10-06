@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/sim786par/dsa_solutions/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/sim786par/dsa_solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/sim786par/dsa_solutions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/sim786par/dsa_solutions/tree/master/0761-special-binary-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/sim786par/dsa_solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/sim786par/dsa_solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/sim786par/dsa_solutions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sim786par/dsa_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sim786par/dsa_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sim786par/dsa_solutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sim786par/dsa_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sim786par/dsa_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

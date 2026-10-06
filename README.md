@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sim786par/dsa_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sim786par/dsa_solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/sim786par/dsa_solutions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/sim786par/dsa_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sim786par/dsa_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sim786par/dsa_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/sim786par/dsa_solutions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/sim786par/dsa_solutions/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/sim786par/dsa_solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/sim786par/dsa_solutions/tree/master/0709-to-lower-case) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/sim786par/dsa_solutions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sim786par/dsa_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0867-transpose-matrix) |

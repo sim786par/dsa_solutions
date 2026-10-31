@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sim786par/dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sim786par/dsa_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sim786par/dsa_solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sim786par/dsa_solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/sim786par/dsa_solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/sim786par/dsa_solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sim786par/dsa_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sim786par/dsa_solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sim786par/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sim786par/dsa_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sim786par/dsa_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |

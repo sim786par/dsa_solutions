@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sim786par/dsa_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sim786par/dsa_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/sim786par/dsa_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sim786par/dsa_solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sim786par/dsa_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sim786par/dsa_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sim786par/dsa_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sim786par/dsa_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sim786par/dsa_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sim786par/dsa_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0203-remove-linked-list-elements](https://github.com/sim786par/dsa_solutions/tree/master/0203-remove-linked-list-elements) |
